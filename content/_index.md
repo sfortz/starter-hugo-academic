@@ -86,11 +86,19 @@ sections:
       text: |
         I'm taking part in several committees and helping the community in various ways:
         
+        * ***Organising workshops and conferences*** :<br/>
+        
+          * Q-SE 2025 (Web & Publicity chair), 2025&nbsp;;<br/>
+          * QSANER (co-Chair), 2025&nbsp;;<br/>
+          * ICTSS (Challenge Track co-Chair), 2024&nbsp;;<br/>
+          * SPLC (Publicity chair), 2024&nbsp;;<br/>
+          * LearnAut(Co-chair), 2024&nbsp;;<br/>
+
         * ***Reviewing*** :<br/>
         
-          * for specialised conferences: ICSR (research track, as a subreviewer), SPLC (research track, demo & tools), ESEC-FSE (artefacts), ECOOP (artefacts)&nbsp;;<br/>
+          * for specialised conferences: ICSR (research track, as a subreviewer), SPLC (research track, demo & tools), ESEC-FSE (artefacts), ECOOP (artefacts, extended review committee), SSBSE (challenge track), ICTAC (Research track), BENEVOL, VaMoS, ICST (Poster track), GI ICSE&nbsp;;<br/>
         
-          * for journals: EMSE (as a subreviewer), Software Quality Journal, SoSyM&nbsp;;<br/><br/>
+          * for journals: EMSE (as a subreviewer), Software Quality Journal, SoSyM, JSS, TSE&nbsp;;<br/><br/>
         
         * Acting as a ***Student Volunteer*** for OR 2018 and SPLC 2023&nbsp;;<br/><br/>
         

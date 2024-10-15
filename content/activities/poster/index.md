@@ -28,6 +28,8 @@ sections:
 
         This project was summarised in the following poster. It was presented in April 2022, during the second edition of the [Women & Girls in Science Day](https://wgis.unamur.be/) organised by the University of Namur (Belgium).
 
+        I successfully defended my Ph.D. on September 22, 2023, in front of a jury composed of esteemed members: Prof. Wim Vanhoof (Dean of the faculty and president, University of Namur), Dr. Gilles Perrouin (Supervisor, University of Namur), Prof. Patrick Heymans (Co-supervisor, University of Namur), Prof. Benoît Frénay (University of Namur), Dr. Maurice ter Beek (ISTI-CNR, Pisa), and Prof. Mohammad Reza Mousavi (King's College London).
+
         <center><iframe src="/uploads/poster.pdf" width="100%" height="600px"></center>
     design:
         # Choose how many columns the section has. Valid values: 1 or 2.

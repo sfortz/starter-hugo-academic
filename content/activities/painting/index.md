@@ -13,6 +13,6 @@ In early 2005, my school participated in a drawing contest that marked the begin
 
 Among the judges, Emilia, a drawing and painting instructor with her own studio class, left a lasting impression on me. It was through this fortuitous encounter that, in September 2005, I became a part of Gribouill'Art, where Emilia shared her expertise and passion with me and others.
 
-Fast forward 18 years, and my enthusiasm for art remains undiminished. Each week, I eagerly anticipate my Gribouill'Art class, where I continue to refine my skills and draw inspiration from life in general.
+Fast forward 18 years, and my enthusiasm for art remains undiminished. Each week, I eagerly anticipate my Gribouill'Art class, where I continue to refine my skills and draw inspiration from life in general. Although the studio closed its doors after 35 years, with Emilia's well-deserved retirement, this won't stop me from continuing to draw and paint. During the weekend of 27-29 September 2024, Emilia organized a final exhibition with former and recent students, featuring both retrospective and original artwork — a wonderful moment rich in shared memories and emotion.
 
 {{< gallery folder="media/albums/paints" >}}
