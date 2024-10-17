@@ -55,6 +55,11 @@ sections:
     design:
       view: citation
 
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
+
   - block: markdown
     id: courses
     content:
