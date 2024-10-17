@@ -131,4 +131,10 @@ sections:
       view: article-grid #date-title-summary #card
       columns: 3
 
+  - block: markdown
+    id: tag-cloud
+    content:
+      title: 'Popular Topics'
+      text: |
+        {{< tag_cloud >}} 
 ---

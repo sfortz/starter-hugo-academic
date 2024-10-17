@@ -8,16 +8,16 @@ main:
     url: / 
     weight: 10
   - name: Experience
-    url: '#experience'
+    url: '/#experience' 
     weight: 20
   - name: Publications
-    url: '#publications'
+    url: '/#publications'
     weight: 30
   - name: Teaching activities
-    url: "#courses"
+    url: "/#courses"
     weight: 40
   - name: Service activities
-    url: "#services"
+    url: "/#services"
     weight: 50
   #- name: Hobbies
   #  url: '#hobbies'

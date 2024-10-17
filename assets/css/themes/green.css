@@ -165,3 +165,19 @@ a:hover {
     transform: scale(1.05); /* Scale the image */
     transition: transform 0.3s ease; /* Smooth transition for scaling */
 }
+
+/* Tag Cloud */
+
+.tag-cloud {
+  display: inline-block !important;
+  text-align: center !important;
+}
+
+.tag-cloud a {
+  text-decoration: none !important; /* Remove underline */
+  margin-right: 15px;
+}
+
+.tag-cloud a:hover {
+  text-decoration: underline !important; /* Underline on hover */
+}
