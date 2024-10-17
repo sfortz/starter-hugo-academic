@@ -1,0 +1,11 @@
+
+<div class="tag-cloud">
+    {{ range $key, $taxonomy := .Site.Taxonomies.tags }}
+        {{ $size := add (mul (len $taxonomy.Pages) 8) 5 }} <!-- Calculate the font size -->
+        <a href="{{ $taxonomy.Page.Permalink }}" 
+            style="font-size: {{ $size }}px;">
+            {{ $key }}
+        </a>
+    {{ end }}
+</div>
+    

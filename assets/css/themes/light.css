@@ -1,0 +1,153 @@
+/* Light Green color theme:*/
+:root {
+  /* Primary Colors */
+  --lightest-shade: rgb(234, 242, 250);   /* Lightest shade OK */
+  --lighter-shade: rgb(213, 229, 245);    /* Lighter shade  OK */ 
+  --light-shade: rgb(157, 204, 152);      /* Light shade */
+  --medium-shade: rgb(116, 181, 106);     /* Medium shade */
+  --main-shade: rgb(76, 175, 80);         /* Main shade OK */ 
+  --dark-shade: rgb(38, 87, 40);         /* Dark shade OK */
+  --darker-shade: rgb(39, 41, 52);        /* Darker shade */
+  --darkest-shade: rgb(35, 37, 46);       /* Darkest shade */
+
+}
+
+/* Applying the colors to the relevant elements */
+body {
+  background-color: var(--lightest-shade) !important;
+}
+
+/* Header*/
+header {
+  background-color: var(--main-shade) !important; 
+}
+
+.navbar-brand {
+  color: white !important;  /* Title */
+}
+
+.nav-link {
+  color: white !important;  /* Text menu */
+}
+
+.nav-link:hover {
+  color: var(--dark-shade) !important;  /* Light shade / Dark shade */
+}
+
+/* General button styles */
+#search_toggle svg, .theme-toggle svg {
+  fill: white;
+  stroke: white; 
+}
+
+/* Hover state for buttons */
+#search_toggle svg:hover, .theme-toggle svg:hover {
+  fill: var(--dark-shade);
+  stroke: var(--dark-shade); 
+}
+
+
+/* Section Bio */
+.avatar-wrapper {
+  display: flex !important; /* Enable flexbox */
+  justify-content: center !important; /* Center the content horizontally */
+  align-items: center !important; /* Center the content vertically */
+  width: 225px !important; /* Set to the width of the avatar or desired width */
+  height: 225px !important; /* Set to the height of the avatar or desired height */
+  overflow: hidden !important;; /* Prevent overflow if needed */
+  position: relative !important; /* For better control over positioning if necessary */
+}
+
+.avatar {
+  width: 100% !important; /* Make it responsive to the wrapper */
+  height: 100% !important; /* Maintain aspect ratio */
+}
+
+.bio-text h2 {
+  color: white; /* Change to your desired shade of blue */
+}
+
+.bio-text p {
+  color: var(--lighter-shade); /* Change to your desired shade of red */
+}
+
+  
+
+/* Section Experience */
+
+
+/* Change left border color and size */
+#experience ol {
+  border-left-color: white !important; /* Replace with your desired color */
+  border-left-width: 3px !important; /* Set the left border width to 5 pixels */
+  border-left-style: solid !important; /* Ensure the left border is solid */
+}
+
+#experience li .absolute {
+  background-color: white !important; /* Use !important if necessary */
+}
+
+
+#experience svg {
+  fill: var(--main-shade);
+}
+
+/* Sections -- general */
+section:nth-child(even) {
+  background-color: var(--lighter-shade) !important; /* Even section background */ /* Darker shade / Lightest shade */
+}
+
+section:nth-child(odd) {
+  background-color: var(--lightest-shade) !important; /* Odd section background */ /* Darkest shade / Lighter shade */
+}
+
+#section-resume-biography-3 {
+  background-color: transparent !important; /* To allow my own background behind the Bio */
+  color: white !important; /* Change text color on hover */
+}
+
+a {
+  color: var(--medium-shade) !important;  /* Link color */
+}
+
+a:hover {
+  color: var(--dark-shade) !important;  /* Link hover color */ /* Light shade / Dark shade */
+}
+
+/* Adventures group title, image and description */
+.cursor-pointer:hover h2.text-lg a,
+.cursor-pointer:hover p.mt-2 a {
+    color: var(--dark-shade) !important; /* Change text color on hover */
+    transition: color 0.3s ease; /* Smooth color transition */
+}
+
+/* Target the image within the group when hovered */
+.cursor-pointer:hover .overflow-hidden {
+    transform: scale(1.05); /* Scale the image */
+    transition: transform 0.3s ease; /* Smooth transition for scaling */
+}
+
+
+/* Other possible styles 
+footer {
+  background-color: rgb(var(--color-footer-background)) !important;
+  color: rgb(var(--color-footer-text)) !important;  
+}
+
+h1, h2, h3, h4 {
+  color: rgb(var(--color-title-color)) !important; 
+}
+
+*/
+
+/* Dark mode adjustments 
+.dark #search_toggle, 
+.dark .theme-toggle {
+  color: rgb(255, 0, 0) !important; 
+}
+
+.dark #search_toggle svg, 
+.dark .theme-toggle svg {
+  fill: rgb(255, 0, 0) !important; 
+  stroke: rgb(255, 0, 0) !important; 
+}*/
