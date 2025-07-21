@@ -55,11 +55,6 @@ sections:
     design:
       view: citation
 
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
-
   - block: markdown
     id: courses
     content:
@@ -84,6 +79,11 @@ sections:
         *Content:* In this project, I supervised a group of two students, guiding them in developing essential skills such as bibliographic research, critical source appraisal, scientific state-of-the-art writing, and effective scientific result presentation, while also ensuring a deep understanding of research problem definition, context, motivation, and related work within the field of information systems. <br/>
         *Academic years:* 2020-2021
   
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
+      
   - block: markdown
     id: services
     content:
@@ -93,25 +93,27 @@ sections:
         
         * ***Organising workshops and conferences*** :<br/>
         
-          * Q-SE 2025 (Web & Publicity chair), 2025&nbsp;;<br/>
-          * QSANER (co-Chair), 2025&nbsp;;<br/>
-          * ICTSS (Challenge Track co-Chair), 2024&nbsp;;<br/>
-          * SPLC (Publicity chair), 2024&nbsp;;<br/>
-          * LearnAut(Co-chair), 2024&nbsp;;<br/>
+          * Q-SE 2025 and 2026 (web & publicity chair)&nbsp;;<br/>
+          * SPLC 2024 (publicity co-chair) and 2025 (doctoral symposium co-chair)&nbsp;;<br/>
+          * QSANER 2025 (co-chair)&nbsp;;<br/>
+          * ICTSS 2024 (challenge track co-chair)&nbsp;;<br/>
+          * LearnAut 2024 (co-chair)&nbsp;;<br/>
 
         * ***Reviewing*** :<br/>
         
-          * for specialised conferences: ICSR (research track, as a subreviewer), SPLC (research track, demo & tools), ESEC-FSE (artefacts), ECOOP (artefacts, extended review committee), SSBSE (challenge track), ICTAC (Research track), BENEVOL, VaMoS, ICST (Poster track), GI ICSE&nbsp;;<br/>
+          * for specialised conferences: ICSR (research track, as a subreviewer), SPLC (research track, demo & tools), ESEC-FSE (artefacts), ECOOP (artefacts, extended review committee), SSBSE (challenge track), ICTAC (research track), BENEVOL, VaMoS, ICST (poster track), GI @ ICSE, ISSTA (artefacts), Re:Volution, ASE (student research competition) &nbsp;;<br/>
         
-          * for journals: EMSE (as a subreviewer), Software Quality Journal, SoSyM, JSS, TSE&nbsp;;<br/><br/>
+          * for journals: EMSE (as a subreviewer), Software Quality Journal, SoSyM, JSS, TSE, SCICO&nbsp;;<br/><br/>
+        
+        * Contributing to the ***Strategic Reflection Group on Software Variability Conferences***, uniting SPLC, ICSR, and VaMoS to shape the future of the field and foster synergies ;<br/><br/>
         
         * Acting as a ***Student Volunteer*** for OR 2018 and SPLC 2023&nbsp;;<br/><br/>
         
-        * Representing scientifics at the Computer Science ***Faculty Council***&nbsp;;<br/><br/>
+        * Representing scientifics at the UNamur Computer Science ***Faculty Council***&nbsp;;<br/><br/>
         
-        * Representing and promoting the Computer Science Faculty at several ***Students Fairs***&nbsp;;<br/><br/>
+        * Representing and promoting the UNamur Computer Science Faculty at several ***Students Fairs***&nbsp;;<br/><br/>
         
-        * Representing scientifics at the ***Section Groups***, the place where students can express themselves to improve the faculty.
+        * Representing scientifics at the ***Section Groups***, the place where students can express themselves to improve the UNamur Computer Science faculty.
   
   - block: collection
     id: activities
@@ -133,7 +135,7 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: article-grid #date-title-summary #card
+      view: article-grid #article-grid #date-title-summary #card
       columns: 3
 
   - block: markdown

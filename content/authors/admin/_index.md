@@ -39,8 +39,8 @@ profiles:
 
 
 interests:
-  - Quantum programming
-  - Software product lines
+  - Quantum software engineering
+  - Software variability
   - Behavioural modelling
   - Automata learning
   - Software testing
@@ -49,16 +49,19 @@ interests:
 education:
   - area: PhD in Software Engineering
     institution: University of Namur
+    institution_logo: media/companies/unamur.svg
     year: 2023 
     date_start: '2019-09-01'
     date_end: '2023-09-22'
   - area: MSc in Computer Science, specialised in Software Engineering      
     institution: University of Namur
+    institution_logo: media/companies/unamur.svg
     year: 2019
     date_start: '2017-09-01'
     date_end: '2019-06-27'
   - area: BSc in Computer Science
     institution: University of Namur
+    institution_logo: media/companies/unamur.svg
     year: 2017
     date_start: '2014-09-01'
     date_end: '2017-09-12'
@@ -67,7 +70,7 @@ work:
   - position: Postdoctoral Researcher
     company_name: King's College London
     company_url: ''
-    company_logo: kcl
+    company_logo: media/companies/kcl.svg
     location: London, UK
     date_start: '2023-11-16'
     date_end: ''
@@ -76,7 +79,7 @@ work:
   - position: Postdoctoral Researcher
     company_name: University of Namur
     company_url: ''
-    company_logo: unamur
+    company_logo: media/companies/unamur.svg
     location: Namur, Belgium
     date_start: '2023-09-22'
     date_end: '2023-11-03'
@@ -85,16 +88,16 @@ work:
   - position: PhD Student
     company_name: University of Namur
     company_url: ''
-    company_logo: unamur
+    company_logo: media/companies/unamur.svg
     location: Namur, Belgium
     date_start: '2019-09-01'
     date_end: '2023-09-22'
-    summary: My thesis is entitled [*Learning Featured Transition Systems*]({{< relref "../poster" >}}). I studied how to model the behaviour of Software Product Lines and how to automatically generate those kind of models.
+    summary: My thesis is entitled [*Learning Featured Transition Systems*]({{< relref "activities/poster" >}}). I studied how to model the behaviour of Software Product Lines and how to automatically generate those kind of models.
 
   - position: ALMIN president
     company_name: University of Namur
     company_url: ''
-    company_logo: almin
+    company_logo: media/companies/almin.svg
     location: Namur, Belgium
     date_start: '2021-09-01'
     date_end: '2023-09-01'
@@ -103,7 +106,7 @@ work:
   - position: Research internship
     company_name: Polytechnic University of Valencia
     company_url: ''
-    company_logo: upv
+    company_logo: media/companies/upv.svg
     location: Valencia, Spain
     date_start: '2019-02-01'
     date_end: '2019-04-30'
@@ -112,7 +115,7 @@ work:
   - position: Secretary and board member
     company_name: Computer Science Labs (CSLabs)
     company_url: ''
-    company_logo: cslabs
+    company_logo: media/companies/cslabs.svg
     location: Namur, Belgium
     date_start: '2017-09-01'
     date_end: '2019-12-31'
@@ -122,18 +125,17 @@ work:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-#awards:
-#  - title: Neural Networks and Deep Learning
+awards:
+  - title: Distinguished Reviewer Award 
 #    url: https://www.coursera.org/learn/neural-networks-deep-learning
-#    date: '2023-11-25'
-#    awarder: Coursera
-#    icon: coursera
+    date: '2024-09-05'
+    awarder: 28th International Systems and Software Product Line Conferencea
+#    icon: media/companies/splc
 #    summary: |
 #      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-
 ---
 
-## About Me
+## Welcome!
 
 My name is Sophie Fortz and I am a postdoctoral researcher with expertise in software engineering. Currently, I'm deeply involved in quantum programming as part of the VSL-Q project at King's College London. In this exciting project, we are dedicated to providing verified simulation of large-scale quantum systems. Our focus extends beyond the theoretical to the practical, addressing platform specificities, noise and scalability issues. This endeavour represents a collaborative synergy, bringing together experts from diverse fields such as physics, programming languages, and software engineering. Working alongside Prof. Mohammad Reza Mousavi, I’ll be channeling my previous expertise towards pioneering testing techniques specifically tailored for quantum programs.
 

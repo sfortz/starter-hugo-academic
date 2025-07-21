@@ -186,3 +186,21 @@ a:hover {
 .tag-cloud a:hover {
   text-decoration: underline !important; /* Underline on hover */
 }
+
+/*  #section-resume-biography-3 
+    #experience 
+    #publications 
+    #section-resume-awards 
+    #courses 
+    #services 
+    #activities 
+    #tag-cloud 
+*/
+
+.max-w-prose {
+  max-width: 80% !important;
+}
+
+#section-resume-biography-3 .max-w-prose {
+  max-width: 40% !important;
+}
