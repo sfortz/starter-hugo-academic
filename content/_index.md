@@ -93,6 +93,7 @@ sections:
         
         * ***Organising workshops and conferences*** :<br/>
         
+          * VARIABILITY 2026 (proceedings chair)&nbsp;;<br/>
           * Q-SE 2025 and 2026 (web & publicity chair)&nbsp;;<br/>
           * SPLC 2024 (publicity co-chair) and 2025 (doctoral symposium co-chair)&nbsp;;<br/>
           * QSANER 2025 (co-chair)&nbsp;;<br/>
@@ -101,9 +102,9 @@ sections:
 
         * ***Reviewing*** :<br/>
         
-          * for specialised conferences: ICSR (research track, as a subreviewer), SPLC (research track, demo & tools), ESEC-FSE (artefacts), ECOOP (artefacts, extended review committee), SSBSE (challenge track), ICTAC (research track), BENEVOL, VaMoS, ICST (poster track), GI @ ICSE, ISSTA (artefacts), Re:Volution, ASE (student research competition) &nbsp;;<br/>
+          * for specialised conferences: ICSR (research track, as a subreviewer), SPLC (research track, demo & tools), ESEC-FSE (artefacts), ECOOP (artefacts, extended review committee), SSBSE (challenge track), ICTAC (research track), BENEVOL, VaMoS, ICST (poster track), GI @ ICSE, ISSTA (artefacts), Re:Volution, ASE (student research competition), CAiSE (research track), GPCE (research track), womENcourage (poster track), VARIABILITY (doctoral symposium, project showcase) &nbsp;;<br/>
         
-          * for journals: EMSE (as a subreviewer), Software Quality Journal, SoSyM, JSS, TSE, SCICO&nbsp;;<br/><br/>
+          * for journals: EMSE, TOSEM, JSS, TSE, SQJ, SoSyM, STVR, SCICO&nbsp;;<br/><br/>
         
         * Contributing to the ***Strategic Reflection Group on Software Variability Conferences***, uniting SPLC, ICSR, and VaMoS to shape the future of the field and foster synergies ;<br/><br/>
         

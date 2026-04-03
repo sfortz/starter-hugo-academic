@@ -13,21 +13,21 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: King's College London
-    url: https://www.kcl.ac.uk/
+  - name: Inria, Univ. Rennes, CNRS, IRISA
+    url: https://www.diverse-team.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include quantum programming, software product lines and behavioural modelling.
+bio: My research interests include quantum software engineering, software variability and behavioural modelling.
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/brands/` folder.
 profiles:
   - icon: envelope-solid
-    link: mailto:sophie.fortz@kcl.ac.uk
-  - icon: academic-cap-solid
-    link: https://directory.unamur.be/staff/sfortz
-  - icon: brands/x
-    link: https://twitter.com/FortzSophie
+    link: mailto:sophie.fortz@inria.fr
+  #- icon: academic-cap-solid
+  #  link: https://directory.unamur.be/staff/sfortz
+  #- icon: brands/x
+  #  link: https://twitter.com/FortzSophie
   - icon: academicons/google-scholar
     link: https://scholar.google.co.uk/citations?user=cfV6X6kAAAAJ
   - icon: academicons/orcid
@@ -39,14 +39,20 @@ profiles:
 
 
 interests:
-  - Quantum software engineering
   - Software variability
+  - Quantum software engineering
   - Behavioural modelling
   - Automata learning
   - Software testing
   - AI4SE & SE4AI
 
 education:
+  - area: National Qualification for Associate Professor (Maître de Conférences)
+    institution: Section 27 - Computer Science
+    institution_logo: 
+    year: 2025
+    date_start: '2025-01-01'
+    date_end: '2030-12-31'
   - area: PhD in Software Engineering
     institution: University of Namur
     institution_logo: media/companies/unamur.svg
@@ -68,12 +74,21 @@ education:
 
 work:
   - position: Postdoctoral Researcher
+    company_name: Inria, Univ. Rennes, CNRS, IRISA
+    company_url: ''
+    company_logo: media/companies/inria.svg
+    location: Rennes, France
+    date_start: '2026-02-01'
+    date_end: ''
+    summary: Working on the CONFVERT project.
+
+  - position: Postdoctoral Researcher
     company_name: King's College London
     company_url: ''
     company_logo: media/companies/kcl.svg
     location: London, UK
     date_start: '2023-11-16'
-    date_end: ''
+    date_end: '2025-09-30'
     summary: Working on the VSL-Q project.
     
   - position: Postdoctoral Researcher
@@ -137,8 +152,10 @@ awards:
 
 ## Welcome!
 
-My name is Sophie Fortz and I am a postdoctoral researcher with expertise in software engineering. Currently, I'm deeply involved in quantum programming as part of the VSL-Q project at King's College London. In this exciting project, we are dedicated to providing verified simulation of large-scale quantum systems. Our focus extends beyond the theoretical to the practical, addressing platform specificities, noise and scalability issues. This endeavour represents a collaborative synergy, bringing together experts from diverse fields such as physics, programming languages, and software engineering. Working alongside Prof. Mohammad Reza Mousavi, I’ll be channeling my previous expertise towards pioneering testing techniques specifically tailored for quantum programs.
+My name is Sophie Fortz, and I am a postdoctoral researcher in software engineering. I recently joined the DiverSE team at the University of Rennes, where I am working on the *Green Software Configurations* project (*CONFVERT*) with Prof. Mathieu Acher. In this project, I explore how software configuration choices impact both energy consumption and performance in complex, variability-intensive systems. The goal is to identify *green* configurations—settings that reduce energy usage while preserving acceptable performance. To do so, *CONFVERT* combines modelling of deep cross-layer variability with large-scale empirical data, and develops robust predictive and optimisation techniques. A strong emphasis is also placed on reproducibility, with experiments conducted on widely used open-source systems, ultimately leading to practical guidelines, datasets, and open tools for the community.
 
-Before embarking on this quantum journey, I did a Ph.D. at the University of Namur. Under the guidance of Dr. Gilles Perrouin and Prof. Patrick Heymans, I delved into the intricacies of software engineering. After being funded by the FNRS EoS (Excellence of Science) VeriLearn project for a year, I secured a competitive [FRIA (FNRS) Grant](https://www.frs-fnrs.be/en/financements-resp/chercheur-doctorant). In September 2023, I successfully defended my thesis, entitled [*"LIFTS: Learning Featured Transition Systems"*](activities/poster). 
+Before joining DiverSE, I completed my Ph.D. at the University of Namur under the supervision of Dr. Gilles Perrouin and Prof. Patrick Heymans. My research focused on the foundations of software engineering, with a special focus on software variability and learning software behaviour through automata learning approach. My PhD research was first supported by the FNRS EoS (Excellence of Science) VeriLearn project, and later by a competitive [FRIA (FNRS) Grant](https://www.frs-fnrs.be/en/financements-resp/chercheur-doctorant). In September 2023, I successfully defended my thesis, entitled [*"LIFTS: Learning Featured Transition Systems"*](activities/poster). 
 
-On my spare hours, I like to read, [draw and paint](activities/painting). I was also an active member of [the Belgian Guide Federation](activities/guides) for years, where I have been successively girl guide, group leader and trainer.
+I then moved to King’s College London for a first postdoctoral position, where I had the opportunity to apply software engineering techniques to quantum computing within the VSL-Q project. This project focused on the verified simulation of large-scale quantum systems, addressing challenges such as platform-specific constraints, noise, and scalability. Working alongside Prof. Mohammad Reza Mousavi and a multidisciplinary team spanning physics, programming languages, and software engineering, I contributed to advancing testing techniques tailored to quantum programs.
+
+Beyond research, I enjoy taking time to read and to engage in creative activities such as [drawing and painting](activities/painting). I was also an active member of [the Belgian Guide Federation](activities/guides) for many years, where I successively served as a guide, group leader, and trainer—an experience that greatly shaped my appreciation for teamwork, learning, and sharing knowledge.
