@@ -16,6 +16,9 @@ main:
   - name: Teaching activities
     url: "/#courses"
     weight: 40
+  - name: Awards
+    url: "/#awards"
+    weight: 45
   - name: Service activities
     url: "/#services"
     weight: 50

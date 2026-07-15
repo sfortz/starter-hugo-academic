@@ -80,6 +80,7 @@ sections:
         *Academic years:* 2020-2021
   
   - block: resume-awards
+    id: awards
     content:
       title: Awards
       username: admin
@@ -91,6 +92,9 @@ sections:
       text: |
         I'm taking part in several committees and helping the community in various ways:
         
+        * ***Guest Editoring*** :<br/>
+          * Q-SE 2026 Special issue, as part of Springer [Automated Software Engineering](https://link.springer.com/collections/biiifjacaf) journal&nbsp;;<br/>
+
         * ***Organising workshops and conferences*** :<br/>
         
           * VARIABILITY 2026 (proceedings chair)&nbsp;;<br/>
@@ -102,7 +106,7 @@ sections:
 
         * ***Reviewing*** :<br/>
         
-          * for specialised conferences: ICSR (research track, as a subreviewer), SPLC (research track, demo & tools), ESEC-FSE (artefacts), ECOOP (artefacts, extended review committee), SSBSE (challenge track), ICTAC (research track), BENEVOL, VaMoS, ICST (poster track), GI @ ICSE, ISSTA (artefacts), Re:Volution, ASE (student research competition), CAiSE (research track), GPCE (research track), womENcourage (poster track), VARIABILITY (doctoral symposium, project showcase) &nbsp;;<br/>
+          * for specialised conferences: ICSR (research track, as a subreviewer), SPLC (research track, demo & tools), ESEC-FSE (artefacts), ECOOP (artefacts, extended review committee), SSBSE (challenge track), ICTAC (research track), BENEVOL, VaMoS, ICST (poster track, educational track), GI @ ICSE, ISSTA (artefacts), Re:Volution, ASE (student research competition), CAiSE (research track), GPCE (research track), womENcourage (poster track), VARIABILITY (doctoral symposium, project showcase) &nbsp;;<br/>
         
           * for journals: EMSE, TOSEM, JSS, TSE, SQJ, SoSyM, STVR, SCICO&nbsp;;<br/><br/>
         

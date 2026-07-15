@@ -479,6 +479,7 @@
     ],
     "ids": [
       "activities",
+      "awards",
       "courses",
       "experience",
       "hide-button",
@@ -491,7 +492,6 @@
       "publications",
       "search",
       "search-wrapper",
-      "section-resume-awards",
       "section-resume-biography-3",
       "services",
       "share-link-email",

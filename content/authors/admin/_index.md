@@ -142,9 +142,14 @@ work:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Distinguished Reviewer Award 
+    url: https://2026.ecoop.org/home/gpce-2026#Awards
+    date: '2026-06-29'
+    awarder: "25th ACM SIGPLAN International Conference on Generative Programming: Concepts & Experiences (GPCE'26)"
+    
+  - title: Distinguished Reviewer Award 
 #    url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2024-09-05'
-    awarder: 28th International Systems and Software Product Line Conferencea
+    awarder: "28th International Systems and Software Product Line Conferencea (SPLC'24)"
 #    icon: media/companies/splc
 #    summary: |
 #      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
